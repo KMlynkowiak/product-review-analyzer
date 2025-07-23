@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+nltk
+spacy
+scikit-learn
+deep-translator
+langdetect
+streamlit
+wordcloud
+kaggle

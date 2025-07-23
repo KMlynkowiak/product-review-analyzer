@@ -1,0 +1,7 @@
+__pycache__/
+*.zip
+*.csv
+*.png
+amazon_reviews/
+wordclouds/
+output_preview.csv
